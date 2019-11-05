@@ -1,2 +1,3 @@
 # LearnJS
-Me learn java.
+NAMA : MUHAMMAD PRASETYO HENDRAWAN.
+
